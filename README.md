@@ -1,4 +1,4 @@
-# Soccer Game
+# Square Soccer
 
 This is a simple 2D soccer game implemented in Python using the Pygame library I made for my younger brother.
 
